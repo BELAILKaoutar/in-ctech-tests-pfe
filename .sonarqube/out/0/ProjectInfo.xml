@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/integration/2015/1">
+  <ProjectName>in_ctech_management_backend.Domain</ProjectName>
+  <ProjectLanguage>C#</ProjectLanguage>
+  <ProjectType>Product</ProjectType>
+  <ProjectGuid>03c1cbf8-8c0a-499f-ac00-dcdbb51384f1</ProjectGuid>
+  <FullPath>D:\Winity-Partner\Projects\management-api-v2\src\in_ctech_management_backend.Domain\in_ctech_management_backend.Domain.csproj</FullPath>
+  <IsExcluded>false</IsExcluded>
+  <AnalysisResultFiles>
+    <AnalysisResultFile Id="FilesToAnalyze" Location="D:\Winity-Partner\Projects\management-api-v2\in_ctech_management_backend.Tests\.sonarqube\conf\0\FilesToAnalyze.txt" />
+  </AnalysisResultFiles>
+  <AnalysisSettings>
+    <Property Name="sonar.cs.roslyn.reportFilePaths">D:\Winity-Partner\Projects\management-api-v2\in_ctech_management_backend.Tests\.sonarqube\out\0\Issues.json</Property>
+    <Property Name="sonar.cs.analyzer.projectOutPaths">D:\Winity-Partner\Projects\management-api-v2\in_ctech_management_backend.Tests\.sonarqube\out\0</Property>
+    <Property Name="sonar.cs.scanner.telemetry">D:\Winity-Partner\Projects\management-api-v2\in_ctech_management_backend.Tests\.sonarqube\out\0\Telemetry.json</Property>
+  </AnalysisSettings>
+  <Configuration>Debug</Configuration>
+  <Platform>AnyCPU</Platform>
+  <TargetFramework>net9.0</TargetFramework>
+</ProjectInfo>

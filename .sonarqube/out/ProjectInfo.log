@@ -1,0 +1,28 @@
+Product projects
+---------------------------------------
+D:\Winity-Partner\Projects\management-api-v2\src\in_ctech_management_backend.Domain\in_ctech_management_backend.Domain.csproj
+D:\Winity-Partner\Projects\management-api-v2\src\in_ctech_management_backend.Application\in_ctech_management_backend.Application.csproj
+
+
+Test projects
+---------------------------------------
+D:\Winity-Partner\Projects\management-api-v2\in_ctech_management_backend.Tests\in_ctech_management_backend.Tests.csproj
+
+
+Invalid projects
+---------------------------------------
+{none}
+
+
+Skipped projects
+---------------------------------------
+D:\Winity-Partner\Projects\management-api-v2\src\in_ctech_management_backend.Domain\in_ctech_management_backend.Domain.csproj
+D:\Winity-Partner\Projects\management-api-v2\src\in_ctech_management_backend.Application\in_ctech_management_backend.Application.csproj
+D:\Winity-Partner\Projects\management-api-v2\in_ctech_management_backend.Tests\in_ctech_management_backend.Tests.csproj
+
+
+Excluded projects
+---------------------------------------
+{none}
+
+

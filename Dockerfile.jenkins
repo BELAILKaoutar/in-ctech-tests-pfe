@@ -1,0 +1,29 @@
+FROM jenkins/jenkins:lts
+
+USER root
+
+# Installer les dépendances
+RUN apt-get update && apt-get install -y \
+    wget \
+    curl \
+    apt-transport-https \
+    libicu-dev \
+    libssl-dev
+
+# Installer .NET 9 SDK via script officiel
+RUN curl -sSL https://dot.net/v1/dotnet-install.sh | bash /dev/stdin \
+    --channel 9.0 \
+    --install-dir /usr/share/dotnet
+
+RUN ln -s /usr/share/dotnet/dotnet /usr/local/bin/dotnet
+
+# Installer SonarScanner et coverlet
+ENV DOTNET_ROOT=/usr/share/dotnet
+ENV PATH="$PATH:/usr/share/dotnet:/root/.dotnet/tools"
+
+RUN dotnet tool install --global dotnet-sonarscanner && \
+    dotnet tool install --global coverlet.console
+
+USER jenkins
+
+ENV PATH="$PATH:/usr/share/dotnet:/root/.dotnet/tools"

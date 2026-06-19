@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Domain",
+    "\\Domain\\Employees",
+    "\\Domain\\HrDocumentRequests",
+    "\\Domain\\LeaveRequests"
+  ],
+  "SelectedNode": "\\Domain\\LeaveRequests\\LeaveRequestTests.cs",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,16 @@
+D:\Winity-Partner\Projects\management-api-v2\src\in_ctech_management_backend.Application\bin\Debug\net9.0\in_ctech_management_backend.Application.deps.json
+D:\Winity-Partner\Projects\management-api-v2\src\in_ctech_management_backend.Application\bin\Debug\net9.0\in_ctech_management_backend.Application.dll
+D:\Winity-Partner\Projects\management-api-v2\src\in_ctech_management_backend.Application\bin\Debug\net9.0\in_ctech_management_backend.Application.pdb
+D:\Winity-Partner\Projects\management-api-v2\src\in_ctech_management_backend.Application\bin\Debug\net9.0\in_ctech_management_backend.Domain.dll
+D:\Winity-Partner\Projects\management-api-v2\src\in_ctech_management_backend.Application\bin\Debug\net9.0\in_ctech_management_backend.Domain.pdb
+D:\Winity-Partner\Projects\management-api-v2\src\in_ctech_management_backend.Application\obj\Debug\net9.0\in_ctech_management_backend.Application.csproj.AssemblyReference.cache
+D:\Winity-Partner\Projects\management-api-v2\src\in_ctech_management_backend.Application\obj\Debug\net9.0\in_ctech_management_backend.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Winity-Partner\Projects\management-api-v2\src\in_ctech_management_backend.Application\obj\Debug\net9.0\in_ctech_management_backend.Application.AssemblyInfoInputs.cache
+D:\Winity-Partner\Projects\management-api-v2\src\in_ctech_management_backend.Application\obj\Debug\net9.0\in_ctech_management_backend.Application.AssemblyInfo.cs
+D:\Winity-Partner\Projects\management-api-v2\src\in_ctech_management_backend.Application\obj\Debug\net9.0\in_ctech_management_backend.Application.csproj.CoreCompileInputs.cache
+D:\Winity-Partner\Projects\management-api-v2\src\in_ctech_management_backend.Application\obj\Debug\net9.0\in_ctech_management_backend.Application.sourcelink.json
+D:\Winity-Partner\Projects\management-api-v2\src\in_ctech_management_backend.Application\obj\Debug\net9.0\in_ctech.9C61E6B8.Up2Date
+D:\Winity-Partner\Projects\management-api-v2\src\in_ctech_management_backend.Application\obj\Debug\net9.0\in_ctech_management_backend.Application.dll
+D:\Winity-Partner\Projects\management-api-v2\src\in_ctech_management_backend.Application\obj\Debug\net9.0\refint\in_ctech_management_backend.Application.dll
+D:\Winity-Partner\Projects\management-api-v2\src\in_ctech_management_backend.Application\obj\Debug\net9.0\in_ctech_management_backend.Application.pdb
+D:\Winity-Partner\Projects\management-api-v2\src\in_ctech_management_backend.Application\obj\Debug\net9.0\ref\in_ctech_management_backend.Application.dll

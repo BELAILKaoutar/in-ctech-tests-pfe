@@ -1,0 +1,13 @@
+D:\Winity-Partner\Projects\management-api-v2\src\in_ctech_management_backend.Domain\bin\Debug\net9.0\in_ctech_management_backend.Domain.deps.json
+D:\Winity-Partner\Projects\management-api-v2\src\in_ctech_management_backend.Domain\bin\Debug\net9.0\in_ctech_management_backend.Domain.dll
+D:\Winity-Partner\Projects\management-api-v2\src\in_ctech_management_backend.Domain\bin\Debug\net9.0\in_ctech_management_backend.Domain.pdb
+D:\Winity-Partner\Projects\management-api-v2\src\in_ctech_management_backend.Domain\obj\Debug\net9.0\in_ctech_management_backend.Domain.csproj.AssemblyReference.cache
+D:\Winity-Partner\Projects\management-api-v2\src\in_ctech_management_backend.Domain\obj\Debug\net9.0\in_ctech_management_backend.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Winity-Partner\Projects\management-api-v2\src\in_ctech_management_backend.Domain\obj\Debug\net9.0\in_ctech_management_backend.Domain.AssemblyInfoInputs.cache
+D:\Winity-Partner\Projects\management-api-v2\src\in_ctech_management_backend.Domain\obj\Debug\net9.0\in_ctech_management_backend.Domain.AssemblyInfo.cs
+D:\Winity-Partner\Projects\management-api-v2\src\in_ctech_management_backend.Domain\obj\Debug\net9.0\in_ctech_management_backend.Domain.csproj.CoreCompileInputs.cache
+D:\Winity-Partner\Projects\management-api-v2\src\in_ctech_management_backend.Domain\obj\Debug\net9.0\in_ctech_management_backend.Domain.sourcelink.json
+D:\Winity-Partner\Projects\management-api-v2\src\in_ctech_management_backend.Domain\obj\Debug\net9.0\in_ctech_management_backend.Domain.dll
+D:\Winity-Partner\Projects\management-api-v2\src\in_ctech_management_backend.Domain\obj\Debug\net9.0\refint\in_ctech_management_backend.Domain.dll
+D:\Winity-Partner\Projects\management-api-v2\src\in_ctech_management_backend.Domain\obj\Debug\net9.0\in_ctech_management_backend.Domain.pdb
+D:\Winity-Partner\Projects\management-api-v2\src\in_ctech_management_backend.Domain\obj\Debug\net9.0\ref\in_ctech_management_backend.Domain.dll

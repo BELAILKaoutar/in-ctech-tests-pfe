@@ -6,7 +6,11 @@ pipeline {
         SONAR_HOST_URL    = 'http://host.docker.internal:9000'
         SONAR_TOKEN       = 'sqp_e467d9983a4587206bdf77147516e126ee79ebb9'
         DOTNET_ROOT       = '/usr/share/dotnet'
+<<<<<<< HEAD
         PATH = "/usr/share/dotnet:/usr/local/dotnet-tools:${env.PATH}"
+=======
+        PATH              = "/usr/share/dotnet:/usr/local/dotnet-tools:${env.PATH}"
+>>>>>>> 38a1918 (fix PATH for sonarscanner)
     }
 
     stages {
